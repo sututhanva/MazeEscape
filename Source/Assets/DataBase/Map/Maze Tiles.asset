@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e514c3d7460c2b4888f54a7e1a6a7f2, type: 3}
+  m_Name: Maze Tiles
+  m_EditorClassIdentifier: 
+  l: {fileID: 11400000, guid: cff73228b38c04643ac803148f74ffef, type: 2}
+  t: {fileID: 11400000, guid: c29077e7281592e48a052a8ca5cd6284, type: 2}
+  r: {fileID: 11400000, guid: 7d8f9070fff002a46969a1316f941dae, type: 2}
+  b: {fileID: 11400000, guid: a059bb7aad6ddbc46b7c4d07545ac055, type: 2}
+  tl: {fileID: 11400000, guid: 7a6b4a099442f8c4c9b9a23d0122f8c9, type: 2}
+  tr: {fileID: 11400000, guid: 5e363b117924d3a448909db2cae3a0f6, type: 2}
+  rb: {fileID: 11400000, guid: 77fdf989f43a359408194cf474dd9ac1, type: 2}
+  lb: {fileID: 11400000, guid: 594a63109b449cf4a8b436afadebc6e4, type: 2}
+  ltr: {fileID: 11400000, guid: 27ff0c47a70d3624e8aa3ab48c4420f3, type: 2}
+  lr: {fileID: 11400000, guid: 220035cde84a3624ea4bbff1442f3ebb, type: 2}
+  lbr: {fileID: 11400000, guid: e290634b819cbea479c14d0981c180b7, type: 2}
+  ltb: {fileID: 11400000, guid: d248b64a43200604c82a197fa4ee5c37, type: 2}
+  tb: {fileID: 11400000, guid: b8aa965c90efaf847b70ce5d8bfc915b, type: 2}
+  trb: {fileID: 11400000, guid: 5cce2479386db6147a03507b9dc396f9, type: 2}

@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: a67622c9a24ef0a4bae6e71e72cb02da
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - l: {instanceID: 0}
+  - t: {instanceID: 0}
+  - r: {instanceID: 0}
+  - b: {instanceID: 0}
+  - tl: {instanceID: 0}
+  - tr: {instanceID: 0}
+  - br: {instanceID: 0}
+  - bl: {instanceID: 0}
+  - ltr: {instanceID: 0}
+  - lr: {instanceID: 0}
+  - lbr: {instanceID: 0}
+  - ltb: {instanceID: 0}
+  - tb: {instanceID: 0}
+  - trb: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
